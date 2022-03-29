@@ -10,7 +10,7 @@ TAP, the Technology Ambassadors Program, aims to increase the number of students
   
 
  
-*ADD RESULTS AND PROJECT DEMO RUNTHROUGH VIDEO AT A LATER DATE*
+
 
 
 ## Team
