@@ -20,7 +20,7 @@ TAP, the Technology Ambassadors Program, aims to increase the number of students
 
 -David Torres
 
--Tyler Rowe
+-Tylor Rowe
 
 
 ## Publications
