@@ -1,4 +1,5 @@
 <p align="center">
+  <img alt="ProjectPythonVR Logo" src="Media/PPVRLogo.png" width="" height="175" />
   <h1 align="center">ProjectPythonVR</h1>
 </p>
 
