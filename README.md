@@ -58,7 +58,7 @@ A more thorough description of your project. Not a full walkthrough, but describ
   - Women in Technology JAVA Bootcamp, Friday, May 13th
 
 ## Similar Projects
-If you're interested in more projects that use V
+If you're interested in more projects that use VR you should check out projects like [Virtual Warriors](https://github.com/TAP-GGC/VirtualWarriors)
 
 ## Technology
   The technology we are using is Virtual Reality. Virtual Reality is a computer generated 3D environment that people can interact with in real life space using special equipment, usually a headset and two controllers, one for each hand. Unity is a game development engine that anyone can use for free, and creators can develop for many platforms uncluding VR.
