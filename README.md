@@ -72,8 +72,9 @@ If you're interested in more projects that use VR you should check out projects 
 VR Setup
   1. Change the Oculus Headset into Developer Mode
   2. Install Oculus Developer Hub and connect the Oculus Headset to your computer
-  3. Upload the [.apk](https://github.com/TAP-GGC/ProjectPythonVR/blame/main/Resources/ProjectPythonVRFinal.apk) file into the headset
-  4. Load the game through the Oculus Library on the headset, under the "Unknown Sources" tab
+  3. Download [.apk](https://github.com/TAP-GGC/ProjectPythonVR/blame/main/Resources/ProjectPythonVRFinal.apk) file, click on "View raw" to download .apk file
+  4. Upload the [.apk](https://github.com/TAP-GGC/ProjectPythonVR/blame/main/Resources/ProjectPythonVRFinal.apk) file into the headset
+  6. Load the game through the Oculus Library on the headset, under the "Unknown Sources" tab
 
 **Web Version**
 
