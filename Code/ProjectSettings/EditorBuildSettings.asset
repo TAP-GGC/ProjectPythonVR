@@ -72,5 +72,5 @@ EditorBuildSettings:
     path: Assets/Scenes/VR/Connor's Levels/Challenge Level 2 VR.unity
     guid: c602f263c2c8cb84187bf7836bddad58
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 19b0257b27018c0439fa38820cb71302, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e7821f739629b704c9adf5896f081525, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f9c6d5360219344b797c0a37eeb99853, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e4935e3640f6048f1807974b444a7fe3, type: 2}
