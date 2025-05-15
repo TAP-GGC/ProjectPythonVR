@@ -89,3 +89,9 @@ VR Setup
   - Move the mouse to rotate the camera
   - use left click to interact with objects and buttons
 
+## Short demo instructions
+[Demo instruction video](https://youtu.be/3BmcVpolXJA)
+## Workshop instructions
+[Workshop instruction video - VR version](https://www.youtube.com/watch?v=aPC-4o15_AM)
+
+[Workshop instruction video - 3D version](https://www.youtube.com/watch?v=45Rnq2RGrqw)
