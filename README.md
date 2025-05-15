@@ -3,11 +3,11 @@
   <h1 align="center">ProjectPythonVR</h1>
 </p>
 
-## About
+## 📢 About
   Project Python VR is an interactible video game made in Unity, where the player will be able to repair spaceships by solving coding problems. The main feature of Project Python VR is that the players are given empty boxes that are "variables" and data objects that are "ints, floats, Strings, and booleans". The player must pick up the data object and either manipulate it by adding or multiplying other data objects, or place it within the variable box. Once the correct variable is within the box, a spaceship will be repaired and the player will move on to the next level. The main technology is Virtual Reality, done through the Oculus Quest VR Headset. The target for this project is to teach people unfamiliar with coding and VR the basics of variables and variable manipulation and how to use and interact with virtual reality.
   
   
-## Project Information
+## 💡 Project Information
 
 * <b>Difficulty Level:</b> Beginner
 * <b>Target Audience:</b> K12 - College
@@ -18,13 +18,9 @@
 
 
 TAP, the Technology Ambassadors Program, aims to increase the number of students who persist in an IT major or minor, particularly those underrepresented in computing by using interesting and new technologies. [TAP]([https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program)) to access the TAP website at GGC for more information.
-  
 
- 
-
-
-
-## Team
+## 👥 Team
+![Pasted Graphic](Media/Team_members.PNG)
 - Connor Murdock
 
 - Alan Oliver
@@ -33,18 +29,19 @@ TAP, the Technology Ambassadors Program, aims to increase the number of students
 
 - Tylor Rowe
 
-## Advisors
+## 🎓 Advisors
 * Dr. Cengiz Gunay
 * Dr. Rahaf Barakat
 
-## Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn. The student has the option to either play in the VR version or use the [desktop version](https://simmer.io/@ConnorMurdock/project-python-3d) to play via computer/laptop.
+## 📃 Project Description
+Project Python VR is a virtual reality game designed to teach the fundamentals of programming in an immersive, space-themed environment. Players interact with data types, manipulate values, assign variables, and apply basic “if statement” logic to repair spaceships. Built in Unity for the Oculus Quest, the game provides a hands-on, physical experience of coding. A WebGL version is also available for non-VR users. Through workshops and gameplay, the project aims to show that programming is more accessible—and more fun—than most people think. The student has the option to either play in the VR version or use the [desktop version](https://simmer.io/@ConnorMurdock/project-python-3d) to play via computer/laptop.
 
-## Publications
+## 📝 Publications
 1. Dr. Cengiz Gunay, Dr. Rahaf Barakat. "Immersive gamification for education: No additional benefit gained from wearing a VR headset", SIGITE ‘23, October 11 - 14,  2023, Marietta, GA, USA.
 2. Connor Murdock, Alan Oliver Santiesteban, David Torres, Tylor Rowe, Rahaf Barakat, Cengiz Gunay. “Using Virtual Reality to Teach the Fundamentals of Primitive Data Types, Variables, and Logic Statements in Python”. Poster presented at the 2022 CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference. Washington, DC. Sep 7-10, 2022. Student received Tapia registration waiver.
+3. [Poster](https://github.com/TAP-GGC/ProjectPythonVR/blob/main/Media/Project_Python_VR_Final_Poster.pdf)
 
-## Outreach Activities
+## 👐 Outreach Activities
 **Workshops**
   - Workshop #1: Thursday, April 7th, A-1930, Dr. Rahaf Barakat
   - Workshop #2: Thursday, April 14th, A-1910, Mr. Carlos Soares
@@ -57,10 +54,10 @@ A more thorough description of your project. Not a full walkthrough, but describ
   - Super Saturday Series, Saturday, April 30th
   - Women in Technology JAVA Bootcamp, Friday, May 13th
 
-## Similar Projects
+## 🔎 Similar Projects
 If you're interested in more projects that use VR you should check out projects like [Virtual Warriors](https://github.com/TAP-GGC/VirtualWarriors)
 
-## Technology
+## 🤖 Technology
   The technology we are using is Virtual Reality. Virtual Reality is a computer generated 3D environment that people can interact with in real life space using special equipment, usually a headset and two controllers, one for each hand. Unity is a game development engine that anyone can use for free, and creators can develop for many platforms uncluding VR.
 
 - [Oculus's Website](https://www.meta.com/quest/)
@@ -68,7 +65,7 @@ If you're interested in more projects that use VR you should check out projects 
 - [Unity's Website](https://unity.com/)
 
 
-## Project Setup/Installation
+## 📥 Project Setup/Installation
 VR Setup
   1. Change the Oculus Headset into Developer Mode
   2. Install Oculus Developer Hub and connect the Oculus Headset to your computer
